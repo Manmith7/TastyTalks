@@ -16,9 +16,9 @@ TastyTalks is a Laravel-powered web platform that lets users save, organize, and
 ## 🛠️ Installation & Setup
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/tastytalks.git
-cd tastytalks
+    ```bash
+    git clone https://github.com/your-username/tastytalks.git
+    cd tastytalks
 
 ### 2.Install Dependencies
 composer install
